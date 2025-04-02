@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;700&display=swap');
+
+body, input, select, button {
+    font-family: 'Cinzel', serif;
+}
+
+html, body {
+    height: 100%;
+    margin: auto;
+    overflow: hidden;
+}
+
+body {
+    background: url('img/Fundo.png') no-repeat center center fixed;
+    background-size: auto;
+    background-attachment: fixed;
+    transition: background-position 0.1s ease-out;
+    overflow: hidden;
+    color: darkgoldenrod;
+    text-align: center;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -100px;
+}
+
+.container {
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+input, select, button {
+    margin: 10px;
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid darkgoldenrod;
+    border-radius: 5px;
+    background-color: #333;
+    color: whitesmoke;
+}
+
+button {
+    cursor: pointer;
+    background-color: #9D5C0D;
+}
+
+button:hover {
+    background-color: darkgoldenrod;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    align-items: center;
+    height: 100vh;
+}
+.content {
+    background-size: cover;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.resultado {
+    font-size: 24px;
+    font-weight: bold;
+    color: goldenrod;
+}
+
+
+

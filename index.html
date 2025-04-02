@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Moedas - Game of Thrones</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1>Conversor de Moedas - Game of Thrones</h1>
+            <label for="valor">Valor:</label>
+            <input type="number" id="valor" placeholder="Digite o valor">
+            
+            <label for="moeda">Escolha a moeda:</label>
+            <select id="moeda">
+                <option value="dragao">🐉 Dragão de Ouro</option>
+                <option value="veado">🦌 Veado de Prata</option>
+                <option value="tostao">🪙 Tostão de Cobre</option>
+                <option value="honor">⚔️ Honor de Braavos</option>
+                <option value="vintem">🔥 Vintém de Yunkai</option>
+            </select>
+            
+            <button onclick="converterMoeda()">Converter</button>
+            <p id="resultado" class="resultado"></p>
+        </div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>
+
