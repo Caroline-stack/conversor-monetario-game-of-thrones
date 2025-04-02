@@ -40,6 +40,8 @@ Este é um projeto de um **conversor monetário temático** inspirado no univers
   Abra a pasta no VS Code ou outro editor
 
   Clique duas vezes em index.html para abrir no navegador
+  
+2. **Acesse** o site: http://conversor-monetario-game-of-thrones.vercel.app/
 
 ## 🏗️ Melhorias Futuras
 -  Adicionar novas moedas e taxas de conversão automáticas 
