@@ -49,10 +49,18 @@ Este é um projeto de um **conversor monetário temático** inspirado no univers
 ## 🖼️ Imagem do Projeto
 Aqui está uma prévia da interface do conversor:
 
+[![Captura-de-tela-1.png](https://i.postimg.cc/rwF1mVJk/Captura-de-tela-1.png)](https://postimg.cc/vckg2dkq)
+
+[![Captura-de-tela-2.png](https://i.postimg.cc/pLGD5wGn/Captura-de-tela-2.png)](https://postimg.cc/Sn9Xwvpy)
+
+[![Captura-de-tela-3.png](https://i.postimg.cc/g0x3VgQt/Captura-de-tela-3.png)](https://postimg.cc/06q6x087)
+
 ## 📜 Licença
 Este projeto é de código aberto e pode ser usado livremente.
 
 ## 👩‍💻 Autor(a)
+
+<img src="https://i.postimg.cc/J7NZ5DY8/professional-neutral-photo.png" alt="Imagem da Desenvolvedora" width="100">
 
 
 
